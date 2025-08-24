@@ -10,7 +10,7 @@ The long-term goal is to advance toward **Level 3 Automation**, but this first p
 ---
 
 ## 📅 Roadmap (12 Sub-Phases for Phase-1)
-| Sb-P | Milestone                                    | Status |
+| Sub-Phases | Milestone                                    | Status |
 | ---- | -------------------------------------------- | ------ |
 | 1    | Finalize scope, recruit team, order hardware | ☐      |
 | 2    | Hardware setup (RC car + Pi + Camera)        | ☐      |
