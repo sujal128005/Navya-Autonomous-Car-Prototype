@@ -1,4 +1,4 @@
-# **Navya – Autonomous Car Prototype (3-Month Plan)**
+# **Navya – Autonomous Car Prototype (Phase-1 Plan)**
 
 # 🚗 Project Aim:
 Navya is a student-led project at IIITDM Kurnool to build a **working prototype of an autonomous car** in 3 months.
@@ -83,6 +83,10 @@ We welcome contributions from all students. Since this is a **knowledge-based, n
 
 ---
 🔥 This repo is the foundation of Navya’s journey toward building a self-driving car.
+
+
 Thanks,
+
+
 With ❤️ **"Navya"**
 
